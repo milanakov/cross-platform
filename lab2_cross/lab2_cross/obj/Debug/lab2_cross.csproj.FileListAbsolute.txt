@@ -1,0 +1,6 @@
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/bin/Debug/lab2_cross.exe
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/bin/Debug/lab2_cross.pdb
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/obj/Debug/lab2_cross.csproj.AssemblyReference.cache
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/obj/Debug/lab2_cross.csproj.CoreCompileInputs.cache
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/obj/Debug/lab2_cross.exe
+/Users/milana/Desktop/uni/knu/4.1/кросплатформне програмування/lab2_cross/lab2_cross/obj/Debug/lab2_cross.pdb
