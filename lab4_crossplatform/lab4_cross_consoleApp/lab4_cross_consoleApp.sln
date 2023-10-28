@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4_cross_consoleApp", "lab4_cross_consoleApp\lab4_cross_consoleApp.csproj", "{1421EFF9-D246-418F-84C5-6500B1F447C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4_cross_library", "..\lab4_cross_library\lab4_cross_library\lab4_cross_library.csproj", "{97EA97C4-95EF-4F02-B649-B46E9B8F14D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1421EFF9-D246-418F-84C5-6500B1F447C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1421EFF9-D246-418F-84C5-6500B1F447C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1421EFF9-D246-418F-84C5-6500B1F447C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1421EFF9-D246-418F-84C5-6500B1F447C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EA97C4-95EF-4F02-B649-B46E9B8F14D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EA97C4-95EF-4F02-B649-B46E9B8F14D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EA97C4-95EF-4F02-B649-B46E9B8F14D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EA97C4-95EF-4F02-B649-B46E9B8F14D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
