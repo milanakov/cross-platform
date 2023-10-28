@@ -6,7 +6,7 @@ namespace lab4_cross_library
 {
     public class Lab2
     {
-        public void RunLab2(string input_File, string output_File)
+        public static void RunLab2(string input_File, string output_File)
         {
             int[] directionIndices = new int[1 + 'Z'];
             for (int i = 0; i < directionIndices.Length; i++)

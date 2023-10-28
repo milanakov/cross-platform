@@ -6,7 +6,7 @@ namespace lab4_cross_library
 {
     public class Lab3
     {
-        public void RunLab3(string input_File, string output_File)
+        public static void RunLab3(string input_File, string output_File)
         {
             using (StreamReader inputFile = new StreamReader(input_File))
             using (StreamWriter outputFile = new StreamWriter(output_File))
