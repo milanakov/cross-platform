@@ -1,0 +1,12 @@
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/bin/Release/net7.0/lab4_cross_library.deps.json
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/bin/Release/net7.0/lab4_cross_library.dll
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/bin/Release/net7.0/lab4_cross_library.pdb
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.csproj.AssemblyReference.cache
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.AssemblyInfoInputs.cache
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.AssemblyInfo.cs
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.csproj.CoreCompileInputs.cache
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.dll
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/refint/lab4_cross_library.dll
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/lab4_cross_library.pdb
+/Users/milanakoval/Desktop/lab4_cross/lab4_cross_library/lab4_cross_library/obj/Release/net7.0/ref/lab4_cross_library.dll
