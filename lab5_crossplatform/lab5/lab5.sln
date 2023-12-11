@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5", "lab5\lab5.csproj", "{8495D2F5-3CC0-4290-80BB-276E37D0034A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5_ClassLibrary", "..\lab5_ClassLibrary\lab5_ClassLibrary\lab5_ClassLibrary.csproj", "{295296DA-19E2-4B73-9DCB-088731FD9CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8495D2F5-3CC0-4290-80BB-276E37D0034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8495D2F5-3CC0-4290-80BB-276E37D0034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8495D2F5-3CC0-4290-80BB-276E37D0034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8495D2F5-3CC0-4290-80BB-276E37D0034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295296DA-19E2-4B73-9DCB-088731FD9CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295296DA-19E2-4B73-9DCB-088731FD9CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295296DA-19E2-4B73-9DCB-088731FD9CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295296DA-19E2-4B73-9DCB-088731FD9CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

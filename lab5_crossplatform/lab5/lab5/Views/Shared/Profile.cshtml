@@ -1,0 +1,15 @@
+@model lab5.Models.UserProfileViewModel
+
+@{
+    ViewData["Title"] = "Профіль користувача";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <p>Ім'я користувача: @Model.Nickname</p>
+    <p>Електронна пошта: @Model.Email</p>
+    <p>Номер телефону: @Model.Phone</p>
+    <p>ПІБ: @Model.FullName</p>
+
+</div>
